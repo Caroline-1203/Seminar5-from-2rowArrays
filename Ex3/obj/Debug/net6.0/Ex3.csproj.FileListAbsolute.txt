@@ -1,0 +1,15 @@
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\Ex3\bin\Debug\net6.0\Ex3.exe
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\Ex3\bin\Debug\net6.0\Ex3.deps.json
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\Ex3\bin\Debug\net6.0\Ex3.runtimeconfig.json
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\Ex3\bin\Debug\net6.0\Ex3.dll
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\Ex3\bin\Debug\net6.0\Ex3.pdb
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\Ex3\obj\Debug\net6.0\Ex3.csproj.AssemblyReference.cache
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\Ex3\obj\Debug\net6.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\Ex3\obj\Debug\net6.0\Ex3.AssemblyInfoInputs.cache
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\Ex3\obj\Debug\net6.0\Ex3.AssemblyInfo.cs
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\Ex3\obj\Debug\net6.0\Ex3.csproj.CoreCompileInputs.cache
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\Ex3\obj\Debug\net6.0\Ex3.dll
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\Ex3\obj\Debug\net6.0\refint\Ex3.dll
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\Ex3\obj\Debug\net6.0\Ex3.pdb
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\Ex3\obj\Debug\net6.0\Ex3.genruntimeconfig.cache
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\Ex3\obj\Debug\net6.0\ref\Ex3.dll
