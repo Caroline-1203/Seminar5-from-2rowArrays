@@ -1,0 +1,15 @@
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\NewSeminar\obj\Debug\net6.0\NewSeminar.csproj.AssemblyReference.cache
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\NewSeminar\obj\Debug\net6.0\NewSeminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\NewSeminar\obj\Debug\net6.0\NewSeminar.AssemblyInfoInputs.cache
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\NewSeminar\obj\Debug\net6.0\NewSeminar.AssemblyInfo.cs
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\NewSeminar\obj\Debug\net6.0\NewSeminar.csproj.CoreCompileInputs.cache
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\NewSeminar\bin\Debug\net6.0\NewSeminar.exe
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\NewSeminar\bin\Debug\net6.0\NewSeminar.deps.json
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\NewSeminar\bin\Debug\net6.0\NewSeminar.runtimeconfig.json
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\NewSeminar\bin\Debug\net6.0\NewSeminar.dll
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\NewSeminar\bin\Debug\net6.0\NewSeminar.pdb
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\NewSeminar\obj\Debug\net6.0\NewSeminar.dll
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\NewSeminar\obj\Debug\net6.0\refint\NewSeminar.dll
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\NewSeminar\obj\Debug\net6.0\NewSeminar.pdb
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\NewSeminar\obj\Debug\net6.0\NewSeminar.genruntimeconfig.cache
+C:\Users\Каролина\OneDrive\Desktop\Seminar8TwoRowArrays\NewSeminar\obj\Debug\net6.0\ref\NewSeminar.dll
